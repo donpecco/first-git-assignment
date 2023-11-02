@@ -1,0 +1,559 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+ 
+   
+}
+body{
+    max-width: 1500px;
+}
+/* .container img{
+    padding-left: 20%;
+} */
+.skyy{
+    padding-left: 1%;
+}
+
+
+.container{
+    display: flex; height: 15vh; background-color: dodgerblue; justify-content: space-between; align-items: center;width: 100%; margin: 0 auto;
+}
+.sky-image{
+max-width: 8%; padding-left: 10px;
+}
+.nav, ul,li{
+    display: inline-block;
+.nav,ul,li,a{
+    color: white; text-decoration: none; padding: 0 5px;
+    font-size: 16px;
+}
+
+
+}
+.login,.get{
+    color: white; padding-right: 25px; text-decoration: none;
+}
+
+.login{
+    background-color:rgb(57, 132, 255);padding: 5px 10px; border: 2px solid white; border-radius: 5px;
+}
+.get{
+    background-color:rgb(4, 24, 56);; padding: 8px 12px; border: none;border-radius: 4px; font-size: 16px;
+}
+.last{
+    padding-right: 1%;
+}
+.big-container{ color: white; background-color: black; align-items: center;
+    width: 100%;
+}
+.new{
+    background-color: brown; border-radius: 2px;
+}
+
+.join{ width: 100%; margin-bottom: 40px; text-align: center;
+   
+}
+.para1{ padding: 60px 0 30px 0; font-size: 3.5rem;
+}
+.para2{margin-bottom: 10px; line-height: 26px; font-size: 18px; color: gold;
+
+}
+.adamu a{ text-decoration: none; background-color:rgb(57, 132, 255); padding: 25px 35px;
+    border-radius: 2px; font-family: "Roboto", sans-serif;font-size: 20px;
+    
+}
+.mini-div{
+    text-align: center;
+}
+.last a{
+    margin-right: 15px;
+}
+
+
+
+
+
+.dropbox-image{ display: block;
+    width: 50%; margin: 0 auto; padding-top: 60px;
+}
+.last-container{
+    display: flex; width: 100%; justify-content: space-around; padding-top: 40px;margin-left: 20px; padding-bottom: 40px; color: white;
+
+}
+.fa-solid{
+    padding-top: 40px; margin-bottom: 35px;color: gold;
+}
+.we,.pay,.you,.well{
+    margin-bottom: 30px; font-family: "Roboto"; font-weight: 500; font-size: 18px; color: gold;
+}
+.pp{
+    line-height: 26px;
+}
+
+
+.see{
+    padding: 50px 0; font-size: 3rem;text-align: center;
+    
+}
+
+.hh{
+   margin-bottom: 40px;color: white;
+}
+.trouble{
+    vertical-align: top;
+}
+
+
+   
+
+
+
+
+
+.mains{
+    width: 100%;
+    display: flex;
+    padding-left: 30px;
+    
+  }
+  
+  .work,.personal{
+    background-color:#242121; width: 95%; padding:40px 30px; height: 45vh;
+    margin-top: -8px; color: white;
+  }
+  .work h2{
+    padding: 20px 0 30px 0;
+  }
+  .work p{
+    line-height: 22px;
+    font-family: "Roboto", sans-serif;
+    font-size: medium;
+  }
+  .personal h2{
+    padding: 20px 0 30px 0;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+    font-size: 1em;
+  }
+  .work h2{
+    padding: 20px 0 30px 0;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+    font-size: 1em;
+  }
+  .personal p{
+    line-height: 22px;
+  }
+  .tozo a{
+   padding: 20px;
+   background-color: rgb(57, 132, 255);
+   border-radius: 3px;
+   
+  }
+  .tozo{
+    padding-top: 22px;
+  }
+  .work a{
+    
+  }
+  .personal a{
+    background-color: rgb(57, 132, 255);
+    border-radius: 3px;
+    border: none;
+    padding: 20px;
+  }
+  .work span{
+    margin-left: 10px;
+  }
+  .personal span{
+    margin-left: 10px;
+  }
+
+
+
+
+
+
+
+
+
+
+.dab{
+display: flex; align-items:center;
+background-color: #a42626; 
+
+
+width: 100%;
+padding-left: 10%;
+font-family: "Roboto", sans-serif;
+margin-top: %;
+
+color: white;
+
+}
+
+
+.dab h1{
+    font-size: 2em;
+}
+
+
+.rat{
+    padding-left: 20%;
+}
+.rat a{
+    background-color: rgb(57, 132, 255);
+    padding: 10px 20px;
+    border-radius: 2px;
+}
+
+.rat i {
+    margin-left: 15px;
+    font-size: 15px;
+    color: black;
+}
+/* .rays{
+margin-left: 5%; }
+.rays a{
+text-decoration: none; background-color: blue; padding: 30px 45px; border-radius: 5px; border: none;
+}
+.sp{
+margin-left: 20px;
+} */
+.lastdiv{
+display: flex; justify-content: space-around; padding-top: 70px; color: white; width: 100%;
+}
+.div1,.div2,.div3,.div4,.div5{
+line-height: 30px;
+}
+.line{
+width: 150px;margin-left: 55px;background-color: lightgray;
+}
+.iconic{
+padding: 40px 55px ; 
+}
+.fa-facebook{
+padding-left: 30px;
+}
+.fa-youtube{
+padding-left: 30px;
+}
+
+.usa{
+padding-left: 50px; 
+
+}  
+.usa, fa-globe, a{
+text-decoration: none;
+}
+body{
+background-color:rgb(30, 25, 25)
+
+}
+.icon{
+    display: none;
+}
+.menu-bar i{
+    font-size: 25px; float: right; display: none;
+}
+#check{
+    display: none;
+}
+.trouble{
+    display: flex;
+     justify-content: space-between;
+      width: 100%;
+      margin: auto;
+      padding: 0 8%;
+}
+.p1,.p2,.p3,.p4{
+    line-height: 26px;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 500;
+}
+.div2 p:hover{text-decoration: underline;
+    cursor: pointer;
+    transition: 1.9s;
+
+}
+.div3 p:hover{text-decoration: underline;
+    cursor: pointer;
+    transition: 1.9s;
+
+}
+.div4 p:hover{text-decoration: underline;
+    cursor: pointer;
+    transition: 1.9s;
+
+}
+.div5 p:hover{text-decoration: underline;
+    cursor: pointer;
+    transition: 1.9s;
+
+}
+.div1 p:hover{text-decoration: underline;
+    cursor: pointer;
+    transition: 1.9s;
+
+}
+.kkl:hover{
+   
+    text-decoration: underline; color: white;}
+
+
+
+
+
+/* this is for tablet */
+
+@media screen and (max-width: 949px){
+   .container{
+    background-color: lightgray;
+   } 
+   .nav, ul, li, a{
+    padding: 0 1px; font-size: 17px;
+   }
+
+.last{
+    padding-right: 20px;
+}
+.login{
+  padding:5px 10px; border: 1px solid white; border-radius: 3px; margin-right: 25px; font-size: 12px;
+}
+.get{
+    padding: 5px 7px; border: none;border-radius: 2px; font-size: 12px; margin-right: 40px;
+}
+.login,.get{
+    margin-right: 5px;
+}
+.dab{
+    display: block; 
+}
+/* .rays{ display: block; padding-top: 30px;text-align: center; 
+} */
+
+}
+
+@media (max-width:915px) {
+    .container{
+        background-color: chocolate;
+
+    }
+    .nav,ul,li,a{
+        color: white; text-decoration: none; padding: 0 2px;
+        font-size: 14px;
+    }
+    .dab{
+       margin-top: 25%;
+       height: 55vh;
+       position: relative;
+    }
+    .dab h1{
+        font-size: 1.5em;
+        padding-top: 10px;
+    }
+    .rat{
+        /* padding-left: 20%; */
+        position: absolute;
+        top: 8%;
+        right: 15%;
+    }
+    .rat a{
+        background-color: rgb(57, 132, 255);
+        padding: 10px 20px;
+        border-radius: 2px;
+    }
+
+    
+}
+
+@media (max-width:817px) {
+    .container{
+        background-color: darkcyan;
+    }
+
+    .nav,ul,li,a{
+        color: white; text-decoration: none; padding: 0 -3px; 
+        font-size: 12px;
+
+    
+}
+
+.trouble{
+    column-gap: 20px;
+}
+.rat a{
+    padding-left: 25%;
+    padding: 15px 25px;
+    border-radius: 2px;
+}
+.dab h1{
+    font-size: 1.2em;
+    padding-top: 10px;
+  }
+}
+
+
+
+/* this is for mobile */
+
+@media (min-width:360px) and (max-width:740px) {
+
+    .container{
+        background-color:darkgrey; flex-direction: column; height: 40vh;position: relative;
+    }
+    .container img{
+        width: 30%; margin: 0 auto; margin-top: 5px;
+    }
+
+    .nav, ul, li{
+        display: block;
+       
+      
+    }
+    
+    ul{
+       position: absolute;top: 99%;background-color: darkgray;  right: 100%; width: 50%;  text-align: center;  font-size: 0.8rem; border-radius: 5px; transition: 1.9s; z-index: 100;
+       border: 2px solid ; height: 450px; padding: -33px 0;
+    }
+
+.last{
+    margin-bottom: 7px;
+}
+.icon{
+    display: inline-block; padding: 10px;font-size: 20px;
+    color: white;
+}
+
+/* #check{
+    display: block;
+} */
+.menu-bar i{
+    display: inline-block;color: rgb(139, 99, 99); position: absolute; top: 15%; right: 2%; font-size: 28px; cursor: crosshair; 
+}
+#check:checked ~ ul{
+    background-color: darkgrey; right: 2%;
+    border: 2px solid whitesmoke;
+
+}
+.para1{
+    text-align: center; font-size: 30px;}
+.para2{ margin-left: 5px;
+   
+}
+.last-container{
+   flex-direction: column;
+   
+}
+.trouble{
+    display: block;
+    text-align: center;
+}
+.work{
+    height: 150vh;
+}
+.personal{
+    height: 150vh;
+}
+.see{
+    font-size: 1.5em;
+}
+.dab{
+   flex-direction: column;
+   column-gap: 20px;
+}
+.rat{
+    padding-top: 30px; padding-right: 30px;
+}
+.dab{margin-bottom: 15px;
+    
+}
+
+.another{
+  display: block;
+}
+
+.files{
+    font-size: 18px;
+}
+
+.lastdiv{
+    flex-direction: column;
+    text-align: center;
+}
+.iconic{
+    text-align: center;
+}
+.line{
+margin-left: 38%;
+}
+.kkl{
+    text-align: center;
+    text-decoration: underline;
+}
+.yes, .no{
+    text-decoration: none; background-color: aqua; padding: 10px 15px;font-weight: 300; font-family: "Roboto"; font-size: 12px;
+    }
+
+     
+   .big-page{
+    flex-direction: column;
+    margin: 10px;
+   }
+   .mains{
+    flex-direction: column;
+   }
+/* 
+   .mini-div a{ text-decoration: none; background-color: rgb(5, 30, 38); position: absolute; left: 5%; 
+
+    top: 100%;}
+    .mini-div{
+        position: relative;
+        z-index: 1;
+    } */
+   
+
+    .dab h1{
+   align-items: center;
+    
+      text-wrap: nowrap;
+      margin: 0 auto;
+    }
+
+    .adamu a{ text-decoration: none; background-color:rgb(57, 132, 255); padding: 7px 12px;
+        font-size: 0.8em;
+        border-radius: 2px;
+        
+    }
+    .adamu i{
+        color: black;
+    }
+    .adamu{
+        margin-right: 10%; position: absolute;
+        left: 32%;
+        top: 153%;
+    }
+    .para1{
+        font-size: 1.5em;
+    }
+   
+    }
+    .image2div{
+        margin-top: %;
+    }
+   .fa-arrow-right{
+    color: black;
+   }
+
+   .dab h1{
+    font-size: 1.5em;
+    line-height: 20px;
+}
+   
+}
